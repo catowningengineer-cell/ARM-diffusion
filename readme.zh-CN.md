@@ -4,8 +4,10 @@
 
 参赛队伍需要在动态环境中使用机械臂完成“回收任务”——机器人抓取并操作瓶子、易拉罐和洗涤剂袋等物品，将其按类别分类至两个不同的收集箱。机器人抓取与操作能力是多数机器人应用的关键技能。赛事提供了一个公平的舞台，让 RoboCup 参与者及学生团队在模拟环境中研究和展示操作感知与控制算法，并将这些算法迁移至商用机器人平台。
 
+ARM - Challenge 的官网：([ARM-Challenge](https://arm.robocup.org/))
+
 ## 1. 理论基础
 在熟悉本项目之前，我们强烈建议您跟进强化学习和扩散模型等领域的理论课程。好在善良的高校机构公开了一些相关的理论课程，能够帮助从业者快速熟悉这些模型的任务。
 
-强化学习理论：([Stanford CS234](https://www.bilibili.com/video/BV1dWB2Y4EcG/?spm_id_from=333.1387.favlist.content.click&vd_source=367cdd85f2bb24f751f4c11cf9a0f8eb))
-流匹配与扩散模型：([MIT 6.S184](https://www.bilibili.com/video/BV1gc8Ez8EFL/?spm_id_from=333.337.search-card.all.click&vd_source=367cdd85f2bb24f751f4c11cf9a0f8eb))
+- 强化学习理论：([Stanford CS234](https://www.bilibili.com/video/BV1dWB2Y4EcG/?spm_id_from=333.1387.favlist.content.click&vd_source=367cdd85f2bb24f751f4c11cf9a0f8eb))
+- 流匹配与扩散模型：([MIT 6.S184](https://www.bilibili.com/video/BV1gc8Ez8EFL/?spm_id_from=333.337.search-card.all.click&vd_source=367cdd85f2bb24f751f4c11cf9a0f8eb))
