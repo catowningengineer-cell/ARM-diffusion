@@ -7,7 +7,18 @@
 ARM - Challenge 的官网：[ARM-Challenge](https://arm.robocup.org/)
 
 ## 1. 理论基础
-在熟悉本项目之前，我们强烈建议您跟进强化学习和扩散模型等领域的理论课程。好在善良的高校机构公开了一些相关的理论课程，能够帮助从业者快速熟悉这些模型的任务。
+在熟悉本项目之前，我们强烈建议您跟进强化学习和扩散模型等领域的相关论文和理论课程。好在善良的高校机构公开了一些相关的理论课程，能够帮助从业者快速熟悉这些模型的任务。
+
+相关论文：
+
+Chi, C. et al. (2025) Diffusion policy: Visuomotor policy learning via action diffusion. *The International journal of robotics research.* [Online] 44 (10–11), 1684–1704. [[paper](https://arxiv.org/pdf/2303.04137)][[code](https://github.com/real-stanford/diffusion_policy.git)]
+
+Ze, Y. et al. (2024) *3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations.* [Online] [[paper](https://arxiv.org/pdf/2403.03954)][[code](https://github.com/YanjieZe/3D-Diffusion-Policy.git)]
+
+Ren, A. Z. et al. (2024) *Diffusion Policy Policy Optimization.* [Online] [[paper](https://arxiv.org/pdf/2409.00588)][[code](https://github.com/irom-princeton/dppo)]
+
+
+理论课程：
 
 - 强化学习理论：[Stanford CS234](https://www.bilibili.com/video/BV1dWB2Y4EcG/?spm_id_from=333.1387.favlist.content.click&vd_source=367cdd85f2bb24f751f4c11cf9a0f8eb) by Emma Brunskill 教授
 - 流匹配与扩散模型：[MIT 6.S184](https://www.bilibili.com/video/BV1gc8Ez8EFL/?spm_id_from=333.337.search-card.all.click&vd_source=367cdd85f2bb24f751f4c11cf9a0f8eb) by Peter Holderrieth 和 Ezra Erives
