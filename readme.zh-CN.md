@@ -38,4 +38,4 @@ ARM - Challenge 的官网：[ARM-Challenge](https://arm.robocup.org/)
 
 ## 2. 环境搭建和数据采集
 
-本项目的测试环境是 Ubuntu 20.04, ROS 版本为 ROS - noetic 仿真平台是 gazebo11。
+本项目的测试环境是 Ubuntu 20.04, ROS 版本为 ROS - noetic，仿真平台是 gazebo11。
