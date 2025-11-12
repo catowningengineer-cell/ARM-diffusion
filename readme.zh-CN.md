@@ -27,7 +27,6 @@ ARM - Challenge 的官网：[ARM-Challenge](https://arm.robocup.org/)
  - Ze, Y. et al. (2024) *3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations.* [Online] [[paper](https://arxiv.org/pdf/2403.03954)][[code](https://github.com/YanjieZe/3D-Diffusion-Policy.git)]
  - Ren, A. Z. et al. (2024) *Diffusion Policy Policy Optimization.* [Online] [[paper](https://arxiv.org/pdf/2409.00588)][[code](https://github.com/irom-princeton/dppo)]
 
-
 ### 📖 理论课程：
 
 - 强化学习理论：[Stanford CS234](https://www.bilibili.com/video/BV1dWB2Y4EcG/?spm_id_from=333.1387.favlist.content.click&vd_source=367cdd85f2bb24f751f4c11cf9a0f8eb) by Emma Brunskill 教授 
@@ -37,6 +36,8 @@ ARM - Challenge 的官网：[ARM-Challenge](https://arm.robocup.org/)
 - 专家最优论，专家演示动作是是可靠的。
 - 数据是多模态的，包含 **RGB** 图像和动作；模型能通过 **RGB** 图像隐式地学会避障。
 - Diffusion Policy 具备一定的泛化能力，可在此项目中通过微调达成目的。
+
+Diffusion Policy 的视觉提取器很有意思，在论文中提到的两个模型都用 *ResNet - 18* 作为 **backbone**，这其实简化了训练上的流程。相较于 *OpenVLA* 中 *SigLIP* 和 *DINOv2* 的大规模预训练，Diffusion Policy 更支持从零训练。
 
 ## 2. 环境搭建和数据采集
 
