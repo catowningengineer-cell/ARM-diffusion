@@ -37,6 +37,8 @@ Before getting familiar with this project, we strongly recommend that you review
 - The dataset is multi-modal, containing both **RGB** images and action data; the model can implicitly learn obstacle avoidance from RGB inputs.
 - The Diffusion Policy possesses a certain level of generalization ability, which can be leveraged and enhanced through fine-tuning in this project.
 
+It is interesting to notice that both two version of **Diffusion Policy** utilize *ResNet - 18* as **backbone**, and this actually simplified training process。Compared with the large-scale pre-training processes in both *SigLIP* and *DINOv2* in **OpenVLA**, **Diffusion Policy** are more friendly for end-to-end training, which is also supported by the article.
+
 ## 2. Environment Building and Data Collection
 
 Before this project, we had already developed a complete ARM system based on Gazebo and MoveIt!.
