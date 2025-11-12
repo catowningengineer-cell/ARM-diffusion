@@ -29,8 +29,8 @@ Before getting familiar with this project, we strongly recommend that you review
 
 ### 📖 Educational Resource：
 
-- Reinforcement Learning：[Stanford CS234](https://www.youtube.com/watch?v=4ngb0IZTg8I&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) by Prof. Emma Brunskill 
-- Flowing Match and Diffusion Model：[MIT 6.S184](https://www.youtube.com/watch?v=3dz6qfjW20o&list=PL_1TbuIu65A9rac2dMLkvXvPS5YHtADRF) by Peter Holderrieth and Ezra Erives
+- **Reinforcement Learning**：[Stanford CS234](https://www.youtube.com/watch?v=4ngb0IZTg8I&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) by Prof. Emma Brunskill 
+- **Flowing Match and Diffusion Model**：[MIT 6.S184](https://www.youtube.com/watch?v=3dz6qfjW20o&list=PL_1TbuIu65A9rac2dMLkvXvPS5YHtADRF) by Peter Holderrieth and Ezra Erives
 
 ### 📝 Assumption：
 - The expert optimality assumption holds — the expert demonstration actions are considered reliable.
